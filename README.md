@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ChiaYu-Chiang/ChiaYu-Chiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiaYu-Chiang&count_private=true&show_icons=true" style="height: 200px; object-fit: scale-down;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaYu-Chiang&layout=compact" style="height: 200px; object-fit: scale-down;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiaYu-Chiang&count_private=true&show_icons=true" style="height: 190px; object-fit: scale-down;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaYu-Chiang&layout=compact" style="height: 190px; object-fit: scale-down;" />
 </div>
 
